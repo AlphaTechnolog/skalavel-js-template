@@ -44,3 +44,13 @@ yarn start
 ```
 
 It run the app in the port `3000`, open it in your browser!
+
+## Running the app (for development)
+
+To run the app for development use the `dev` command it uses `nodemon` to apply the hot reloading.
+
+```sh
+npm run dev
+# or with yarn
+yarn dev
+```

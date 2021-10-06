@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/"
+    "start": "node src/",
+    "dev": "nodemon src/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "skalavel": "^0.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
   }
 }
